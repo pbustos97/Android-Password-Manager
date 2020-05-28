@@ -1,0 +1,54 @@
+<resources>
+    <!--
+    Main Activity/Fragment
+    -->
+    <string name="app_name">PasswordManager</string>
+    <string name="text_username">Username:</string>
+    <string name="text_password">Password:</string>
+    <string name="text_login">Login</string>
+    <string name="login_successful">Login Successful</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="text_register">Register</string>
+    <string name="register_successful">Registered New User</string>
+    <string name="register_failed">Registration Failed</string>
+    <string name="register_error">Error With Registering New User</string>
+    <string name="register_password_length">Password Field Cannot Be Empty</string>
+    <string name="register_username_length">Username Field Cannot Be Empty</string>
+    <string name="register_exists">User already exists</string>
+    <string name="text_delete">Delete Login</string>
+    <string name="delete_error">Error Deleting User</string>
+    <string name="delete_wrong_password">Cannot Delete, Wrong Password</string>
+    <string name="delete_no_user">User Does Not Exist</string>
+    <string name="delete_success">Deleted User</string>
+    <string name="fragment_login">Fragment Login</string>
+
+    <!--
+    Password Fragment and PasswordList Fragment
+    -->
+    <string name="password_username">Username</string>
+    <string name="password_password">Password (optional)</string>
+    <string name="password_service">Service</string>
+    <string name="password_save">Save</string>
+    <string name="password_generate">Generate Password</string>
+    <string name="password_username_hint">Enter Username</string>
+    <string name="password_password_hint">Enter Password</string>
+    <string name="password_service_hint">Enter Service</string>
+    <string name="password_date">Date</string>
+    <string name="password_date_hint">Enter Date</string>
+    <string name="date_picker_title">Date of password creation:</string>
+    <string name="new_password">New Password</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$d passwords</string>
+    <string name="password_length_hint">Length</string>
+    <string name="password_length">Password Length</string>
+    <string name="password_symbol_on">Incl. Symbols</string>
+    <string name="password_symbol_off">No Symbols</string>
+    <string name="fragment_passwordList">Password List</string>
+
+    <!--
+    Intent Keys
+    -->
+    <string name="uuid_key">uuid_key</string>
+    <string name="password_key">password_key</string>
+</resources>
